@@ -13,7 +13,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kahan44/kahan44/.github/workflows/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kahan44/.github/workflows/snake.svg" alt="Snake animation" />
 
 ###
 
