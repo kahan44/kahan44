@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 Currently working on: Data Science Projects<br>🌱 Currently learning: Data Science / Machine Learning<br>👯 Looking to collaborate on: AI / ML Projects<br>💬 Ask me about: Collaboration, Tech Support<br>📫 Reach me at: IG - @kahan_04_<br>⚡ Fun fact: I turn coffee into code ☕</p>
+<p align="left">🔭 Currently working on: Data Science & Full Stack Projects<br>🌱 Currently learning: Data Science / Web Development<br>👯 Looking to collaborate on: AI / ML Projects<br>💬 Ask me about: Collaboration, Tech Support<br>📫 Reach me at: IG - @kahan_04_<br>⚡ Fun fact: I turn coffee into code ☕</p>
 
 ###
 
