@@ -13,7 +13,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kahan44/kahan44/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kahan44/kahan44/output/snake.svg" alt="Snake animation" />
 
 ###
 
